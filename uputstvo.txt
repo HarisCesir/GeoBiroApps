@@ -1,0 +1,10 @@
+Excel to text
+-odabir datuma
+-upload ExcelDoc.xlsx
+-Sacuvaj
+
+Sastavi mjerenja
+-ucitaj txt fajlove(SEJO_PUT KOSTAJNICA_010918.txt i MERSAD_PUT KOSTAJNICA_010918.txt)
+-napravi txt fajl
+-upload napravljenog txt fajla
+-napravi excel
